@@ -1,0 +1,81 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+h1 {
+    text-align: center;
+
+    color: rgb(251, 142, 40);
+}
+
+.space {
+    width: 100%;
+    height: 230px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+div.galleryimg {
+    margin: 5px;
+    border: 1px solid black;
+    float: left;
+    width: 180px;
+}
+
+div.galleryimg:hover {
+    border: 1px solid #777;
+}
+
+div.galleryimg img {
+    width: 100%;
+    height: 200px;
+}
+
+.para {
+    text-align: left;
+    margin: 40px;
+    font-size: large;
+}
+
+h3 {
+    color: rgb(251, 142, 40);
+
+}
+
+.music {
+    margin: 40px;
+
+}
+
+.awards {
+    margin: 40px;
+
+}
+
+u {
+    color: rgb(251, 142, 40);
+}
+
+table,
+th,
+td {
+    border: 1px solid;
+    border-style: solid;
+    border-collapse: collapse;
+    border-color: white;
+}
+
+td,
+th {
+    height: 30px;
+    width: 2000px;
+    padding: 5px;
+}
+
+th {
+    background-color: darksalmon;
+    color: black
+}
